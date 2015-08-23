@@ -51,7 +51,7 @@ arguments.
 ### Why did you write this module?
 When building event emitters it's easier to deal with a single data object than
 writing code to apply n arguments. This module makes it easy to wrap and unwrap
-function arguments for easy transmission.
+function arguments prior to transmission.
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
